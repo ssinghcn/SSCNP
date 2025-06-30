@@ -1,2 +1,2 @@
-# SSCNR
+# SSCNP
 My Testing Repo
